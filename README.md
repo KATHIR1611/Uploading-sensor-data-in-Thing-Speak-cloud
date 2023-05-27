@@ -122,11 +122,11 @@ void loop()
 
 # CIRCUIT DIAGRAM:
 
-![](iot 1.png)
+![](iot1.png)
 
 # OUTPUT:
 
-![](iot 2.png)
+![](iot2.png)
 
 # RESULT:
 Thus the distance of the obstacle was monitored using Ultrasonic sensor and the distance values are uploaded in the Thing speak using ESP32 controller.
