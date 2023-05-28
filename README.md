@@ -122,11 +122,11 @@ void loop()
 
 # CIRCUIT DIAGRAM:
 
-![](iot1.png)
+![](https://github.com/KATHIR1611/Uploading-sensor-data-in-Thing-Speak-cloud/blob/main/iot%201.png)
 
 # OUTPUT:
 
-![](iot2.png)
+![](https://github.com/KATHIR1611/Uploading-sensor-data-in-Thing-Speak-cloud/blob/main/iot%202.png)
 
 # RESULT:
 Thus the distance of the obstacle was monitored using Ultrasonic sensor and the distance values are uploaded in the Thing speak using ESP32 controller.
