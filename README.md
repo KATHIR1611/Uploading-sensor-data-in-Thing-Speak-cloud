@@ -1,9 +1,11 @@
 # Uploading sensor data in Thing Speak cloud
 
+Date : 14/04/23
+
 # AIM:
 To monitor the distance of the obstacle using an Ultrasonic sensor and uploading the data in the Thing speak using an ESP32 controller.
 
-# Apparatus required:
+# APPARATUS REQUIRED:
 ESP32 Controller  </br>
 HC-SR04 Ultrasonic sensor module </br>
 Power supply </br>
@@ -61,9 +63,6 @@ Automatically act on your data and communicate using third-party services like T
 
 
 # PROGRAM:
-Developed by:Kathirvelan.K
-
-Register number:212221220026
 
 ```
 #include "ThingSpeak.h"
