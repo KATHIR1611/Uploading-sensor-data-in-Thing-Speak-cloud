@@ -1,4 +1,4 @@
-# Uploading sensor data in Thing Speak cloud
+# EX:04 Uploading sensor data in Thing Speak cloud
 
 Date : 14/04/23
 
